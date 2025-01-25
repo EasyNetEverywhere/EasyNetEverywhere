@@ -7,8 +7,7 @@
 - тесты
 - руководства пользователя
 
-Easy Net Everywhere datasheet: https://github.com/EasyNetEverywhere/EasyNetEverywhere/blob/main/Easy%20Net%20Everywhere.%20User%20Manual.%20beta%20version%206.2.pdf
-
+Easy Net Everywhere datasheet: 
 Video:
 NRF24L01+, NRF24L01+PA+LNA, E01-ML01DP5, E01-2G4M27D. Тест трансиверов. 250 Кбит, 1 Мбит, 2 Мбит
 https://www.youtube.com/watch?v=HMkH7Mvk6C8
